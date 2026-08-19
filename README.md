@@ -1,2 +1,2 @@
 # Data-Science-Portfolio1
-An introduction to using Github and creating portfolios
+My name is Timothy Pearson, I'm currently a senior at UNC charlotte and I study Sports Analytics 
