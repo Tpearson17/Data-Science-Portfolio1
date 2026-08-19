@@ -1,2 +1,2 @@
 # Data-Science-Portfolio1
-and introduction to using Github and creating portfolios
+An introduction to using Github and creating portfolios
