@@ -1,4 +1,4 @@
-# Your Name
+# Timothy Pearson
 Data Science Student  
 UNC Charlotte
 ## About Me
