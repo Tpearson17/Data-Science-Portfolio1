@@ -17,7 +17,7 @@ After looking at the data through our visualizations there are many things than 
 When collecting data from this API I ran into many complication with collecting data. First of when pulling data I wasn't able to pull more than just the Most popular movies. This could definitely lead to skewed data. Also when only comparing directors and studios I didn't have any variables that could differentiate genre which could have led to more niche genres (which a studio or director may specialize in) being under represented. If I were to do this project again i would try and gather more confounding variable to get a better idea of how to measure success when it comes to movies.
 
 ## Code
-[Code Link]()
+[Code Link](api_project.ipynb)
 
 ## References
 
