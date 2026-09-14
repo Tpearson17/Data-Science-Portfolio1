@@ -9,6 +9,8 @@ What I want to used data science for is trach how different biomechanical advant
 - [LinkedIn](https://www.linkedin.com/in/timothy-pearson-01b781332)
 - [View My Resume](Timothy_Pearson_Resume.pdf)
 
+---
+
 ## Portfolio
 - [Blog](blog.md)
 - [Projects](projects.md)
