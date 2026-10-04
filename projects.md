@@ -13,4 +13,4 @@ This section documents my data science projects, research questions, and data st
 
 ---
 
-[NBA Injury Project](DTSC_2301_project_2.ipynb)
+[NBA Injury Project](DTSC_2301_project_2.html)
