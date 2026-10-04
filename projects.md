@@ -26,3 +26,5 @@ When collecting data from this API I ran into many complication with collecting 
 2. Pangarker, N. A., & Smit, E. v. d. M. (2013). The determinants of box office performance in the film industry revisited. *South African Journal of Business Management*, 44(3), 47–58. https://doi.org/10.4102/sajbm.v44i3.161
 
 3. Zhao, K., Yang, X., Tao, X., Xu, X., & Zhao, J. (2020). Exploring the differential effects of online reviews on film's box-office success: Source identity and brand equity from an integrated perspective. *Frontiers in Psychology*, 11, 217. https://doi.org/10.3389/fpsyg.2020.00217
+
+[Project 1](Project_1)
