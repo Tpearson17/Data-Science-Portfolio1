@@ -6,11 +6,11 @@ This section documents my data science projects, research questions, and data st
 
 ---
 
-[Project 1](Project_1.md)
+[Film Project](Project_1.md)
 
 ---
 ## Project 2
 
 ---
 
-[Project 2](DTSC_2301_project_2.ipynb)
+[NBA Injury Project](DTSC_2301_project_2.ipynb)
