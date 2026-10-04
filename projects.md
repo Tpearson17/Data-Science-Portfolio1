@@ -28,3 +28,10 @@ When collecting data from this API I ran into many complication with collecting 
 3. Zhao, K., Yang, X., Tao, X., Xu, X., & Zhao, J. (2020). Exploring the differential effects of online reviews on film's box-office success: Source identity and brand equity from an integrated perspective. *Frontiers in Psychology*, 11, 217. https://doi.org/10.3389/fpsyg.2020.00217
 
 [Project 1](Project_1.md)
+
+---
+## Project 2
+
+---
+
+[Project 2]()
